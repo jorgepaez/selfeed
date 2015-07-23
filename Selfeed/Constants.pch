@@ -1,0 +1,11 @@
+//
+//  Constants.h
+//  Selfeed
+//
+//  Created by Jorge Paez on 7/23/15.
+//  Copyright (c) 2015 Jorge Paez. All rights reserved.
+//
+
+#define API_DOMAIN              @"https://api.instagram.com"
+#define API_CLIENT_SECRET       @"ef5282478ec44e7ca9fc16791f8fa005"
+#define API_CLIENT_ID           @"26f10a4875f345d79aeabbd6ae0ce793"
